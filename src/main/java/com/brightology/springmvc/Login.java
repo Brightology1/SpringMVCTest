@@ -7,5 +7,4 @@ public class Login {
     public String login(){
         return "Nothing, just test";
     }
-
 }
